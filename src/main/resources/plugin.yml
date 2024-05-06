@@ -1,0 +1,14 @@
+name: MFRankup
+version: '${project.version}'
+main: com.unclecole.mfrankup.MFRankup
+api-version: '1.19'
+depend: [PlaceholderAPI, Vault, MVdWPlaceholderAPI]
+authors: [ Cole ]
+commands:
+  rankup:
+  prestige:
+  setrank:
+  setprestige:
+  maxrankup:
+  autorankup:
+  rank:
